@@ -22,4 +22,5 @@ This project is hosted on netlify
 - How to use `flex-property`
 - How to position images in a web page
 - How to do padding
- 
+
+ ## [Live-Link](https://street-style-landing-page01.netlify.app/) of the project
